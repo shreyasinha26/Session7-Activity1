@@ -1,6 +1,6 @@
 ---
-slug: second-blog-post
-title: Second Blog Post
+slug: first-blog-post
+title: Fisrt Blog Post
 authors: [slorber, yangshun]
 tags: [hola, docusaurus]
 ---
